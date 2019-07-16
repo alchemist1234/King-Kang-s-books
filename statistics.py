@@ -1,4 +1,4 @@
-members = ['cyy', 'dyh', 'zwa', 'zyy']
+members = ['cyy', 'dyh', 'zwa', 'zyy', 'lyw', 'zc']
 
 f = open('book.md','r')
 content = f.read()
